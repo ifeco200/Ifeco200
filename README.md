@@ -1,39 +1,42 @@
-IF E C O  |  Frontend Developer
+IF E C O | Frontend Developer
 
-Building Modern. Responsive. User-Centered Web Experiences.
+Crafting Responsive, Accessible & User-Focused Web Experiences
 
-Welcome to my GitHub profile.
+I am a Frontend Developer focused on building modern, responsive, and intuitive web interfaces. I combine clean code, thoughtful design, and attention to detail to create digital experiences that are both visually engaging and functional.
 
-I'm a Frontend Developer passionate about creating elegant, functional, and responsive web experiences. I focus on writing clean code, developing intuitive interfaces, and transforming design concepts into engaging digital products.
-
-TECHNICAL SKILLS
-
-- Languages: HTML5, CSS3, JavaScript
-- Tools: Git, GitHub, Visual Studio Code
-- Focus Areas: Frontend Development, Responsive Web Design, UI Implementation
-
-FEATURED PROJECT
-
-Sunnyside Landing Page
-
-A responsive website project focused on modern layouts, visual consistency, and user-friendly design.
-
-- "Live Demo" (https://ifeco200.github.io/sunnyside-landing-page/)
-- "Source Code" (https://github.com/ifeco200/sunnyside-landing-page)
-
-PROFESSIONAL INTERESTS
-
-- Modern frontend development
-- Responsive and accessible web design
-- User interface development
-- Continuous improvement and problem-solving
-
-LET'S CONNECT
-
-"GitHub Profile" (https://github.com/ifeco200)
+I enjoy transforming design concepts into well-structured websites, solving interface challenges, and building solutions that deliver a seamless user experience across devices.
 
 ---
 
-Creating meaningful digital experiences, one project at a time.##
+Technical Expertise
 
+- Languages: HTML5, CSS3, JavaScript
+- Styling & Layout: CSS Grid, Flexbox, Responsive Web Design
+- Development Tools: Git, GitHub, Visual Studio Code
+- Core Competencies: Frontend Development, UI Implementation, Cross-Browser Compatibility, Web Accessibility
 
+Featured Projects
+
+Sunnyside Agency — Landing Page
+
+A responsive agency landing page showcasing modern web design, structured layouts, and interactive interface elements.
+
+- "Live Website" (https://ifeco200.github.io/sunnyside-landing-page/)
+- "View Source Code" (https://github.com/ifeco200/sunnyside-landing-page)
+
+---
+
+Professional Focus
+
+- Developing clean, maintainable frontend code.
+- Creating responsive and accessible user interfaces.
+- Translating visual designs into functional web experiences.
+- Improving website usability, performance, and consistency.
+
+Let's Connect
+
+- GitHub: "@ifeco200" (https://github.com/ifeco200)
+
+---
+
+Building purposeful digital experiences through thoughtful frontend development.
